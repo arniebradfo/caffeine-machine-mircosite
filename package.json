@@ -1,0 +1,25 @@
+{
+  "name": "caffeine-machine-mircosite",
+  "version": "1.0.0",
+  "description": "The first website i ever made. Its not very good.",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arniebradfo/caffeine-machine-mircosite.git"
+  },
+  "keywords": [
+    "uga"
+  ],
+  "author": "James Bradford",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arniebradfo/caffeine-machine-mircosite/issues"
+  },
+  "homepage": "https://github.com/arniebradfo/caffeine-machine-mircosite#readme",
+  "dependencies": {
+    "serve": "^11.3.2"
+  }
+}
